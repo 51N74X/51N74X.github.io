@@ -1,5 +1,6 @@
 ---
 title:  "Meow"
+category: "Easy"
 ---
 
 # HTB - Starting Point Machine
